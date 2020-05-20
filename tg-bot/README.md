@@ -6,4 +6,5 @@ Le bot doit être créé avec le BotFather et doit avoir accès à l'ensemble de
 Contactez-moi si vous voulez le répertoire contenant des animgifs/png et autres anims pour la partie émoticons.
 
 Amusez-vous bien ^^
+
 Cédric
